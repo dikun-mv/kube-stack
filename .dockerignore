@@ -1,0 +1,4 @@
+kubernetes
+**/dist
+**/node_modules
+**/*.log
