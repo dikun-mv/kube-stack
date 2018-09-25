@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.2.17"
+  }
+}
